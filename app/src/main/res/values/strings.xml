@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">usb-relay-client</string>
+    <string name="Relay0">Relay 0</string>
+    <string name="Relay1">Relay 1</string>
+    <string name="Relay2">Relay 2</string>
+    <string name="Relay3">Relay 3</string>
+    <string name="Relay4">Relay 4</string>
+    <string name="Relay5">Relay 5</string>
+    <string name="Relay6">Relay 6</string>
+    <string name="Relay7">Relay 7</string>
+    <string name="address">Address</string>
+</resources>
